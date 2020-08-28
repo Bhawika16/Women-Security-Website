@@ -1,0 +1,33 @@
+body{
+    background-image: url(Backg.png);
+    background-size: 50cm,25cm;
+}
+.item{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: rgba(189, 192, 24, 0.7);
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+button{
+    background-color: rgb(9, 32, 48);
+    padding: 10px 24px;
+    align-content: center;
+}
+.hi{
+    color: pink;
+    text-align: center;
+    background-color: rgba(180, 106, 88, 0.6);
+}
+.hl{
+    text-align: center;
+    color: rgb(255, 145, 0);
+}
+.me{
+    text-align: left;
+}
+.boom{
+    text-align: center;
+    background-color: rgb(206, 158, 96,0.6);
+}
